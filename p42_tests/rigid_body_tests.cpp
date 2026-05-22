@@ -1,6 +1,6 @@
 #include "doctest.h"
 
-#include "../../p42/p42/physics/rigid_body.h"
+#include "rigid_body.h"
 
 #include <cmath>
 

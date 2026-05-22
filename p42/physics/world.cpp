@@ -1,5 +1,7 @@
 #include "world.h"
 
+#include <algorithm>
+
 #include "collision.h"
 #include "vec2.h"
 

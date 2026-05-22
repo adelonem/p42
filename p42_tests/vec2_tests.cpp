@@ -1,6 +1,6 @@
 #include "doctest.h"
 
-#include "../../p42/p42/math/vec2.h"
+#include "vec2.h"
 
 namespace {
 

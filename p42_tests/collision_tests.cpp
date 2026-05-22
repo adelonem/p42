@@ -1,6 +1,6 @@
 #include "doctest.h"
 
-#include "../../p42/p42/physics/collision.h"
+#include "collision.h"
 
 namespace {
 
